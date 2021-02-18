@@ -1,3 +1,7 @@
+# VIEW ON HEROKU
+
+here is the deployed link: https://ptlillis-note-taker.herokuapp.com/notes
+
 # homework-unit-11-note-taker
 
 This is a note taker app that provides the user with the ability to write, save and delete notes inside their browser.
